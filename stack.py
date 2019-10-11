@@ -21,5 +21,4 @@ class Stack():
     def clear(self):
         self.items = []
 
-
     
