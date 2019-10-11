@@ -35,4 +35,3 @@ class Test_StackMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
