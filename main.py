@@ -34,3 +34,4 @@ collection.push(2)
 print('pop twice')
 print(collection.pop())  # the 2 was last
 print(collection.pop())  # then the 1
+
