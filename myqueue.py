@@ -20,6 +20,4 @@ class MyQueue():
 
     def clear(self):
         self.items = []
-
-
-    
+        
