@@ -16,5 +16,4 @@ class CollectionsFactory:
             return myqueue.MyQueue()
         else:
             raise ValueError(collection)
-
         
